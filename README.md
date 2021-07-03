@@ -1,5 +1,6 @@
 # ML-DL
 Overview of LSTM:
+----------------
 
 A learning algorithm for predicting the end-of-day price of a given stock with the help of Long Short Term Memory (LSTM), a type of Recurrent Neural Network (RNN).LSTM algorithms differ in the way in which they operate. It is also capable of catching data from past stages and use it for future predictions . 
 
@@ -22,7 +23,8 @@ Memory Gate chooses which new data will be stored in the cell. First, a sigmoid 
 
 Output Gate decides what will be the output of each cell. The output value will be based on the cell state along with the filtered and freshest added data.
 
-#About main.py:
+About main.py:
+--------------
 
 LSTM has been implemented for datasets of TCS and Google companies.
 
