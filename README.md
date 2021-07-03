@@ -28,4 +28,8 @@ About main.py:
 
 LSTM has been implemented for datasets of TCS and Google companies.
 
+Datasets:
+--------
+t1 and t2 are the datasets used for implementing LSTM model for TCS company.
+GoogleTest and GoogleTrain are used for implementing LSTM model for Google Company.
 
