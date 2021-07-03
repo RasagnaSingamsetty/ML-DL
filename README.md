@@ -23,6 +23,6 @@ Memory Gate chooses which new data will be stored in the cell. First, a sigmoid 
 Output Gate decides what will be the output of each cell. The output value will be based on the cell state along with the filtered and freshest added data.
 
 
-
+LSTM has been implemented for datasets of TCS and Google companies.
 
 
