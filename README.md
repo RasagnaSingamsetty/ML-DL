@@ -26,7 +26,7 @@ Output Gate decides what will be the output of each cell. The output value will 
 About main.py:
 --------------
 
-LSTM has been implemented for datasets of TCS and Google companies.
+LSTM has been implemented for datasets of TCS and Google companies.The code includes a Gui designed using Flask through which we can select a company from the given drop-down list and the execution of the epochs will be evident through command prompt.Once it has been successfully trained the RMSE value will be displayed on the GUI with a "plot graph" option through which we can visualize the results.Few Machine Learning methods are also been implemented and their plots along with RMSE values can also been visited through GUI. 
 
 Datasets:
 --------
