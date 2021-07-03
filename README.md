@@ -1,4 +1,4 @@
-# ML-DL
+# Stock Price Prediction using LSTM
 Overview of LSTM:
 ----------------
 
